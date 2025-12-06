@@ -1,1 +1,5 @@
-pytest>=7.0
+# requirements.txt — intentionally vulnerable versions for Trivy demo
+requests==2.19.1
+pyyaml==3.13
+urllib3==1.22
+paramiko==2.1.1
